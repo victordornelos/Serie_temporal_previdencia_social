@@ -31,9 +31,8 @@ Além disso, para avaliar a performance dos modelos, utilizamos métricas como E
 
 ## 4. Resultados
 
-O modelo de Suavização Exponencial com Holt-Winters apresentou a melhor performance na previsão da série de dados reais. No entanto, houve dificuldade em estimar o período da Pandemia da Covid-19, devido ao cenário atípico. A conclusão é que o regime de repartição adotado pelo governo brasileiro enfrentará desafios com o constante crescimento dos gastos com os benefícios da Previdência Social.\
+O modelo de Suavização Exponencial com Holt-Winters apresentou a melhor performance na previsão da série de dados reais. No entanto, houve dificuldade em estimar o período da Pandemia da Covid-19, devido ao cenário atípico. A conclusão é que o regime de repartição adotado pelo governo brasileiro enfrentará desafios com o constante crescimento dos gastos com os benefícios da Previdência Social.
 
-![grafico](/Users/victor/Desktop/curso python/Serietemporalprev/Serie_temporal_previdencia_social/foto.png)
 
 ## 5. Referências
 Lemos da Silva, Poliana. Análise da Série Histórica dos Benefícios Concedidos da Previdência Social do Brasil. Trabalho de Conclusão de Curso (TCC) - Universidade Federal de Minas Gerais, 2017. Disponível em: <https://repositorio.ufmg.br/bitstream/1843/BUOS-B4GJ44/1/tcc_ufmg_poliana_lemos_da_silva.pdf\>. Acesso em: 30 de maio de 2024.\
